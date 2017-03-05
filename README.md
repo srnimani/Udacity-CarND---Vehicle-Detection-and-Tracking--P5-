@@ -28,26 +28,26 @@ I used Jupyter Notebook during the development.
 
 ## Details About Files In This Directory
 
-### `writeup.pdf`
+## `writeup.pdf`
 
 Describes the steps taken towards achieving the project goals with illustration and takes the rubric as the base.
 
 
-### `Vehicle Detection and Tracking - P5.ipynb`
+## `Vehicle Detection and Tracking - P5.ipynb`
 
 Jupyter note book, containing the actual code. Has embedded videos for palying ditecly from file.
 
 
-### `Vehicle Detection and Tracking - P5.html`
+## `Vehicle Detection and Tracking - P5.html`
 
 Jupyter note book, html file.
 
 
-###  'project_video_output Video.mp4`
+##  'project_video_output Video.mp4`
 
 Output Video. 
 
-###  'Others Files`
+##  'Others Files`
 
 Test images used for training the SVM and other intermediate results.
 
